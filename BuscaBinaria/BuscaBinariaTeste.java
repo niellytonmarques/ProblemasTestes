@@ -43,5 +43,4 @@ public class BuscaBinariaTeste {
         BuscaBinaria buscar = new BuscaBinaria();
         assertEquals(-1, buscar.busca(array, chave));
     }
-
 }

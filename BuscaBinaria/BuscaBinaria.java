@@ -1,4 +1,4 @@
-import javax.print.attribute.standard.MediaSize.NA;
+//import javax.print.attribute.standard.MediaSize.NA;
 
 public class BuscaBinaria {
 
